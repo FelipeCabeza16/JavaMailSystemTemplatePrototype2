@@ -17,7 +17,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Laura Rodriguez y Daniela
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class MyFrame extends JFrame implements ActionListener{
         private JLabel lusername, lpassword;
