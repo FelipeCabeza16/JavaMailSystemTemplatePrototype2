@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 import javax.swing.JOptionPane;
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class UsersConstructor {
     
