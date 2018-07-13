@@ -14,7 +14,7 @@ import java.awt.*;
 import java.util.ArrayList;
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class MessagesReader extends JFrame{
     public ArrayList <String> allmessages;
