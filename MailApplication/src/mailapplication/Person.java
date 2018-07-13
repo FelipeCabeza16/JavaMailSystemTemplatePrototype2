@@ -7,7 +7,7 @@ package mailapplication;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Person {
 
