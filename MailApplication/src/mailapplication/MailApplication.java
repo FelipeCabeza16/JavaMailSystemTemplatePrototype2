@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class MailApplication {
 
