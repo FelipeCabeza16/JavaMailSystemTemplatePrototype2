@@ -7,7 +7,7 @@ package mailapplication;
 
 /**
  *
- * @author e0xp101t3r
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Inbox extends javax.swing.JFrame {
 
