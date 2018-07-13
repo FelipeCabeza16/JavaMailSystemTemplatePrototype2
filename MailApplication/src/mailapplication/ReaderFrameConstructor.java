@@ -14,7 +14,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class ReaderFrameConstructor extends javax.swing.JFrame {
 
