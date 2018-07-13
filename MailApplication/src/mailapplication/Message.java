@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Message {
 private   String content,issue;
