@@ -19,7 +19,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Logged extends JFrame implements ActionListener{
     UsersConstructor searcher;
